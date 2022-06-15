@@ -1,2 +1,2 @@
 # Tik-Tac-Toe
-HK 1 OU Project
+First semester of first year in Open University
