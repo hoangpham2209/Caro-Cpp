@@ -1,4 +1,4 @@
-# Tik-Tac-Toe
+# Caro
 First semester of first year in Open University.
 
 Create playground in console with 3 sizes.
